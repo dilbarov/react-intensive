@@ -12,6 +12,7 @@ class App extends Component {
   render() {
     return (
         <div className="wrapper">
+            <h1>Hello, World!!!</h1>
             <SayFullName name="Евгений" surname="Дильбаров" link="#"/>
         </div>
     );
